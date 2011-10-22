@@ -4,7 +4,7 @@
 准备
 ------
 * 用来跨墙的服务器 IP、端口（默认22）、SSH 账号、密码；
-* Bitwise Tunnelier，点击[这里](https://github.com/AntiGameZ/AntiNote/resources/Tunnelier-Inst.exe)下载；
+* Bitwise Tunnelier，点击[这里](http://cloud.github.com/downloads/AntiGameZ/AntiNote/Tunnelier-Inst.exe.zip)下载；
 * 基于 Windows 系统的电脑一台（手机的请无视此文章）；
 * 最新稳定版的 Firefox；
 
