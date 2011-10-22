@@ -36,7 +36,7 @@ __配置 Bitwise Tunnelier__
 
 这时，Bitwise Tunnelier 部分的配置已经完成，可以在左边树形菜单中，Save Profile。以后直接点击保存的 Profile 文件，即可载入之前的配置。
 
-__配置 Firefox __
+__配置 Firefox__
 
 在地址栏中输入 about:config，打开 Firefox 的高级配置页，无视中间出现的警告即可。
 
